@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: linear-gradient(90 deg, #363636, #4f4f4f, #696969, #828282, #9c9c9c, #1c1c1c);
+}
