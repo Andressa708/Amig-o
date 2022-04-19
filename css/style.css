@@ -35,8 +35,14 @@ nav li {
 	margin: 10px;
 }
 
-ul menu {
+/*Voltar aqui para tentar tirar a bolinha*/
+ul  menu {
 	display: inline-block;
 	margin: 10px;
 	
+}
+
+button{
+	margin-left: 28px;
+	width: 24px;
 }
