@@ -25,7 +25,18 @@ nav{
 header li {
 	
 	display: solid;
-    width: 100%;
+	width: 100%;
 	/*Para ter espaço entre as listas */
 	margin: 10px;
+	margin-left: 30px;
+}
+nav li {
+	display: inline-block;
+	margin: 10px;
+}
+
+ul menu {
+	display: inline-block;
+	margin: 10px;
+	
 }
