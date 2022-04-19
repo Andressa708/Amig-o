@@ -35,14 +35,29 @@ nav li {
 	margin: 10px;
 }
 
-/*Voltar aqui para tentar tirar a bolinha*/
-ul  menu {
-	display: inline-block;
-	margin: 10px;
+header button{
+	margin-left: 30px;
+	margin-right: 10px;
 	
 }
 
-button{
-	margin-left: 28px;
-	width: 24px;
+/*Voltar aqui para tentar tirar a bolinha*/
+ul li menu {
+	display: inline-block;
+	margin: 10px;
+	margin-bottom: 10px;
+}
+
+   
+   
+   
+section button {
+	margin: 20px;
+	width: 90px;
+    height: 50px;
+	display: inline-block;
+	
+    
+	
+    
 }
