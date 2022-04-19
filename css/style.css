@@ -48,9 +48,6 @@ ul li menu {
 	margin-bottom: 10px;
 }
 
-   
-   
-   
 section button {
 	margin: 20px;
 	width: 90px;
@@ -64,4 +61,11 @@ section button {
 	text-shadow: 2px 1px #FFFFFF;
 	font-style:italic;
     
+}
+
+.caixa-texto-sobre p{
+	margin-top: 10px;
+	/*Justificar Texto*/
+	text-align: justify;
+	
 }
