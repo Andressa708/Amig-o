@@ -22,4 +22,10 @@ nav{
 	font-size:50px;
   }
 
-
+header li {
+	
+	display: solid;
+    width: 100%;
+	/*Para ter espaço entre as listas */
+	margin: 10px;
+}
