@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: azure;
+	background-color: white;
 }
 
 nav{
@@ -15,9 +15,8 @@ nav{
     align-items: center;
     margin-left:auto;
     margin-right:auto;
-    width: 100%;
-    /*Deixar varias cores*/
-    background: linear-gradient(0deg, rgba(193, 188, 188, 0.31) 0%,rgba(255, 255, 255, 0.27) 90%);
+    width: 90%;
+    background: white;
     font-family: 'Courier New', Courier, monospace;
 	font-size:50px;
   }
@@ -52,20 +51,22 @@ section button {
 	margin: 20px;
 	width: 90px;
     height: 50px;
-	
 	display: inline-block;
-    /*Mudar a cor da letra*/
-	margin-top:15px;
-	color: #245909;
-	/*Para dar um efeito de sobra na letra*/
-	text-shadow: 2px 1px #FFFFFF;
-	font-style:italic;
-    
+   
 }
 
 .caixa-texto-sobre p{
 	margin-top: 10px;
-	/*Justificar Texto*/
-	text-align: justify;
+	
 	
 }
+
+/*Criando uma class div no Html para ser estilizado aqui no css. */
+div {
+    background: #c0c0c0;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+	margin-left: 30px;
+}
+
