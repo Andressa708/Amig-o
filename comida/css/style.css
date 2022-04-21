@@ -1,0 +1,72 @@
+body{
+    background-color: pink;
+  }
+  header h1{
+    /* font-style: italic para detalhar o titulo*/
+    font-style: italic;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*Cor do titulo alterada*/
+    color: #8B008B
+  }
+  header img{
+    /*Width determina a largura da imagem */
+    width: 600px;
+    /*display: block serve para a declaração do elemento HTML seja renderizado como bloco, tal como os parágrafos e os cabeçalhos o são. */
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+  
+  main  {
+    font-style: italic;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*Cor do subtítulo alterada */
+    color: #68228B
+  }
+  
+  main h2 p{
+    font-style: Arial;
+    width: 400px;
+    color:#8B2252 ;
+    display: block;
+  }
+  
+  
+  
+  
+  footer img{
+    width: 200px;
+    margin: 10px 10px 10px 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  footer h3{
+    font-style: normal;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+  
+  footer ul{
+    font-style: normal;
+    width: 400px;
+    text-align: justify;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /*Cor do Parágrafo alterada*/
+  footer p{
+    color:#8B008B
+  }
+  
+  /*body{
+  background-image: linear-gradient(90deg, #363636, #4F4F4F,#696969,#828282, #9C9C9C, #1C1C1C); exemplo */ 
